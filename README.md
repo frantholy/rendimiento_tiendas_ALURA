@@ -55,5 +55,5 @@ En definitiva, la venta de la Tienda 1 es una decisión estratégica que permite
    Abre tu terminal o línea de comandos y ejecuta el siguiente comando para clonar el proyecto:
 
    ```bash
-   git clone https://github.com/frantholy/frantholy.github.io.git
+   git clone https://github.com/frantholy/rendimiento_tiendas_ALURA
 ```

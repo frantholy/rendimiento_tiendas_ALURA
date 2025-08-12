@@ -1,4 +1,4 @@
-# Desafío "Sorteo de amigo secreto" - ALURA LATAM
+# Desafío "Rendimiento Tiendas" - ALURA LATAM
 
 -----------------------------------------------------------
 ## 📝 INTRODUCCIÓN DESAFÍO:
@@ -50,7 +50,7 @@ En definitiva, la venta de la Tienda 1 es una decisión estratégica que permite
   
 ------
 
-## Cargar el Proyecto o clonar el repositorio:
+## Cargar el proyecto o clonar el repositorio:
 
    Abre tu terminal o línea de comandos y ejecuta el siguiente comando para clonar el proyecto:
 
